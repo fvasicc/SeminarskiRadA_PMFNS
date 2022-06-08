@@ -1,0 +1,12 @@
+10.10.2019.|Bogdan Bogdanovic|28|6|7|0|1|4
+13.10.2019.|Bogdan Bogdanovic|14|3|7|1|1|3
+10.10.2019.|Stefan Jovic|6|11|4|0|3|2
+10.10.2019.|Vasilije Micic|7|8|6|0|2|1
+13.10.2019.|Stefan Jovic|9|9|6|0|1|2
+13.10.2019.|Vasilije Micic|18|3|2|1|2|2
+15.10.2019.|Bogdan Bogdanovic|19|4|3|0|0|1
+15.10.2019.|Stefan Jovic|13|9|2|0|1|2
+15.10.2019.|Vasilije Micic|11|3|5|0|0|0
+10.10.2019.|Milos Teodosic|11|13|2|0|0|2
+13.10.2019.|Milos Teodosic|7|13|6|0|1|3
+15.10.2019.|Milos Teodosic|16|9|3|0|1|3
